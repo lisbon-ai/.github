@@ -10,7 +10,7 @@
 | Resource | Link |
 |---|---|
 | 🌐 Website | [lisbonai.org](https://lisbonai.org) |
-| 🎟️ Get tickets | [tickets.lisbonai.xyz](https://tickets.lisbonai.xyz/registration) |
+| 🎟️ Get tickets | [tickets.lisbonai.org](https://tickets.lisbonai.org/registration) |
 | 🤝 Sponsors | [sponsors.lisbonai.org](https://sponsors.lisbonai.org) |
 | 📜 Our Code of Conduct | [lisbonai.org/conduct](https://lisbonai.org/conduct) |
 | 💬 Discord | [Join the chat](https://discord.com/invite/ExnMf8wTPU) |
